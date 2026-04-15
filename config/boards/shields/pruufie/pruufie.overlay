@@ -37,7 +37,7 @@
 
     composite_kscan: composite_kscan {
         compatible = "zmk,kscan-composite";
-        rows = <3>;
+        rows = <4>;
         columns = <4>;
 
         matrix {
