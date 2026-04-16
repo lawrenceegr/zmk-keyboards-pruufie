@@ -14,16 +14,4 @@ include:
     cmake-args: -DCONFIG_ZMK_STUDIO=y
     artifact-name: with_studio_pruufie
 
-  # - board: rpi_pico
-  #   shield: encoders
-  #   snippet: studio-rpc-usb-uart
-  #   cmake-args: -DCONFIG_ZMK_STUDIO=y
-  #   artifact-name: with_studio_encoders
-
-  - board: rpi_pico
-    shield: keypad
-    snippet: studio-rpc-usb-uart
-    cmake-args: -DCONFIG_ZMK_STUDIO=y
-    artifact-name: with_studio_keypad
-
 
