@@ -96,7 +96,7 @@
             , <&key_physical_attrs 100 100  400  435    0    0    0>
             // encoder push buttons
             , <&key_physical_attrs 100 100    0    0    0    0    0>
-            , <&key_physical_attrs 100 100  425  255    0    0    0>
+            , <&key_physical_attrs 100 100  425  185    0    0    0>
             ;
     };
 };
