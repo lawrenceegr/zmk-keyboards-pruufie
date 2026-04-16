@@ -83,20 +83,20 @@
 
         keys  //                     w   h    x    y   rot  rx   ry
             // Row 0
-            = <&key_physical_attrs 100 100   55   55    0    0    0>
-            , <&key_physical_attrs 100 100  165    0    0    0    0>
-            , <&key_physical_attrs 100 100  265    0    0    0    0>
-            , <&key_physical_attrs 100 100  375   30    0    0    0>
-            , <&key_physical_attrs 100 100  565  335    0    0    0>
+            = <&key_physical_attrs 100 100    0  105    0    0    0>
+            , <&key_physical_attrs 100 100  100   55    0    0    0>
+            , <&key_physical_attrs 100 100  200   55    0    0    0>
+            , <&key_physical_attrs 100 100  300  105    0    0    0>
+            , <&key_physical_attrs 100 100  400  335    0    0    0>
             // Row 1
-            , <&key_physical_attrs 100 100   55  155    0    0    0>
-            , <&key_physical_attrs 100 100  165   95    0    0    0>
-            , <&key_physical_attrs 100 100  265   95    0    0    0>
-            , <&key_physical_attrs 100 100  375  140    0    0    0>
-            , <&key_physical_attrs 100 100  565  435    0    0    0>
+            , <&key_physical_attrs 100 100    0  205    0    0    0>
+            , <&key_physical_attrs 100 100  100  155    0    0    0>
+            , <&key_physical_attrs 100 100  200  155    0    0    0>
+            , <&key_physical_attrs 100 100  300  205    0    0    0>
+            , <&key_physical_attrs 100 100  400  435    0    0    0>
             // encoder push buttons
-            , <&key_physical_attrs 100 100    0   15    0    0    0>
-            , <&key_physical_attrs 100 100  520  170    0    0    0>
+            , <&key_physical_attrs 100 100    0    0    0    0    0>
+            , <&key_physical_attrs 100 100  425  255    0    0    0>
             ;
     };
 };
