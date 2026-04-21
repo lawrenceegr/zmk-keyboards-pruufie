@@ -12,7 +12,7 @@
                 &kp F1     &kp F2          &kp F3    &kp F4   &kp F5
                 &kp C_MUTE &studio_unlock
             >;
-            sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN &inc_dec_kp C_AC_SCROLL_UP C_AC_SCROLL_DOWN>;
+            sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN &inc_dec_kp PG_UP PG_DN>;
         };
         extra1 {
             status = "reserved";
