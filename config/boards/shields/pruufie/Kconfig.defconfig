@@ -1,0 +1,6 @@
+if SHIELD_PRUUFIE
+
+config ZMK_KEYBOARD_NAME
+	default "Pruufie"
+
+endif # SHIELD_PRUUFIE
