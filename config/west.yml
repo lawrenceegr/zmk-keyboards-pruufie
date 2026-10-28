@@ -1,6 +1,6 @@
 manifest:
   defaults:
-    revision: v0.3
+    revision: 4dd95d7840eb3d5a3f59bb29fbf1ab054715ef85  # same ZMK as ~/dev/sdk/zmk (lawrenceegr/dev repos.txt)
   remotes:
     - name: zmkfirmware
       url-base: https://github.com/zmkfirmware
